@@ -1,6 +1,48 @@
 -----
 -Bitcoin & Blockchain-
 
+Blockchain allows P2P transfer of digital assets without any intermediaries
+
+Industries:
+* goods transfer e.g. supply chain
+* digital media transfer e.g. sale of art
+* remote service delivery e.g. travel and tourism
+* decentralized business logic e.g. moving computing to data sources
+* distributed intelligence e.g. education credentialing
+Additionally:
+* distributed resources e.g. power generation and distributuion
+* crowd funding e.g. startup fund raising
+* crowd operations e.g. electronic voting
+* identity management e.g. one id for all your life's functions
+* government public records e.g. open governing
+
+Bitcoin
+
+Digital currency system
+Autonomous decentralized application
+
+Satosi Nakamoto
+
+Trust and security by implementing software programs for:
+* validation
+* verification
+* consensus
+* immutable recording
+in a novel infrastructure - blockchain
+
+Web 3.0
+
+Blockchain - enabling P2P transactions in a decentralized network:
+* establishing trust among unknown peers
+* recording the transaction in an immutable distributed ledger (digital ledger)
+
+Centralized system:
+customer -> credit card agency -> customer bank -> credit cards bank -> exchange -> merchants bank -> merchant
+
+Blockchain technology supports methods for:
+* decentralized P2P system
+* collective trust model
+* distributed immutable ledge of records of transactions
 -----
 -----
 https://bitcoin.org/bitcoin.pdf
@@ -10,11 +52,15 @@ https://www.pcmag.com/news/blockchain-the-invisible-technology-thats-changing-th
 -----
 -----
 -Blockchain Structure-
+
+Block: headers & transactions
+
 * transactions - validate & broadcast
 * transactions form a chain
 * blocks - consensus process
 * chosen block - verified
-* miners (peer nodes) - consensus & verify
+* miners (peer nodes) - consensus & verify 
+  (miners execute operations defined by the blockchain protocol)
 
 Unspent Transaction Output (UTXO)
 set of all utxos collectively define the state of the bitcoin blockchain
