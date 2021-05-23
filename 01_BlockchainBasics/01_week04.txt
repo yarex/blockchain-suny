@@ -1,4 +1,34 @@
 -----
+-Decentralized Systems-
 
+-----
+-----
+https://arxiv.org/pdf/1706.01730.pdf
+https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare
+-----
+-----
+-Consensus Protocol-
+
+-----
+-----
+https://www.coindesk.com/short-guide-blockchain-consensus-protocols
+https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2
+https://www.youtube.com/watch?v=hYip_Vuv8J0
+-----
+-----
+-Robustness-
+
+-----
+-----
+https://www.wired.com/story/how-the-blockchain-is-redefining-trust/
+-----
+-----
+-Forks-
+
+-----
+-----
+https://www.trustnodes.com/2017/12/02/blockchain-forks-shown-hayek-right-wrong
+https://www.coindesk.com/split-forks-blockchain-leaders-learn-tough-lessons-bitcoin-scaling
+https://www.youtube.com/watch?v=8uF7RVF2osk
 -----
 -----
